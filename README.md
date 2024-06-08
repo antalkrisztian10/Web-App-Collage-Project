@@ -14,7 +14,7 @@ Configure the database connection:
 Boot up Xamp and open the Apache and MySql servers
 
 Usage
-Open your web browser and go to http://localhost/sub-foldername to access the application.
+Open your web browser and go to http://localhost/"sub-folder name" (example Project1) to access the application.
 
 You can log in either a user or an admin (you can find the username and passowd for each in the users table in the database)
 
